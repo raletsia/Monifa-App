@@ -1,15 +1,14 @@
-# Monifa — Kelola Keuangan serta bisnis dalam 1 Genggaman
+# Monifa — Kelola Keuangan serta bisnis
 
 > **Status Rilis (Beta):** Aplikasi ini masih dalam tahap pengembangan/uji coba (**Beta**). Belum seluruh fitur aktif sepenuhnya dan beberapa menu atau alur masih terus disempurnakan secara bertahap.
 
 Aplikasi Android untuk mengelola keuangan pribadi, operasional multi-usaha, dan sinkronisasi multi-akun secara praktis dalam satu aplikasi.
 
 ## Fitur Unggulan
-- **Kelola Bisnis dalam 1 Genggaman:** Pantau arus kas, pemasukan, dan pengeluaran dari berbagai lini usaha tanpa harus berpindah-pindah aplikasi.
-- **Multi-Akun & Sub-Akun Real-Time:** Kelola akses akun utama dan sub-akun dengan sinkronisasi data yang terhubung.
-- **UMKM Antar Cabang:** Catat dan pantau performa keuangan tiap cabang atau sub-toko secara terpusat maupun terpisah.
-- **Fleksibel untuk Berbagai Jenis Usaha:** Usaha toko & ritel, rental mobil/kendaraan, usaha bilyard/hiburan, hingga pengelolaan keuangan harian.
-- **Sistem Referral & Verifikasi:** Manajemen kode referral, rekap komisi, serta alur verifikasi pengguna.
+- **Kelola Bisnis dalam 1 Genggaman :** Pantau arus kas, pemasukan, dan pengeluaran dari berbagai lini usaha tanpa harus berpindah-pindah aplikasi.
+- **Multi-Akun & Sub-Akun Real-Time :** Kelola akses akun utama dan sub-akun dengan sinkronisasi data yang terhubung.
+- **UMKM Antar Cabang :** Catat dan pantau performa keuangan tiap cabang atau sub-toko secara terpusat maupun terpisah.
+- **Fleksibel untuk Berbagai Jenis Usaha :** Usaha toko & ritel, rental mobil, usaha bilyard, hingga pengelolaan keuangan harian.
 
 ## Catatan Tahap Beta
 - Beberapa fitur masih dalam proses pengembangan atau penyesuaian lanjutan sehingga belum semuanya aktif di versi saat ini.
