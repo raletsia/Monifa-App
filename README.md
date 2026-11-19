@@ -1,4 +1,4 @@
-# Monifa — Kelola Bisnis & Keuangan dalam 1 Genggaman
+# Monifa — Kelola Keuangan serta bisnis dalam 1 Genggaman
 
 > **Status Rilis (Beta):** Aplikasi ini masih dalam tahap pengembangan/uji coba (**Beta**). Belum seluruh fitur aktif sepenuhnya dan beberapa menu atau alur masih terus disempurnakan secara bertahap.
 
