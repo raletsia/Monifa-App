@@ -20,3 +20,7 @@ Aplikasi Android untuk mengelola keuangan pribadi, operasional multi-usaha, dan 
 2. Pilih versi rilis terbaru, lalu unduh file **`.apk`** yang tersedia.
 3. Buka file `.apk` di HP Android Anda.
 4. Jika muncul peringatan keamanan, izinkan **Instal dari sumber tidak dikenal / Install unknown apps** untuk browser atau pengelola file yang Anda gunakan, lalu lanjutkan instalasi.
+
+## Kebijakan Privasi
+Informasi mengenai pengelolaan data dan privasi pengguna dapat dibaca pada tautan berikut:
+[Kebijakan Privasi Monifa](https://github.com/raletsia/Monifa-Privacy-Policy)
